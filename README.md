@@ -18,7 +18,7 @@
 ## 🖼 Screenshots
 
 ### Main Interface
-![Main Interface](img/[main_interface.png](https://github.com/rchatthuska/MP3-Player/blob/main/Screenshot%202025-01-15%20172746.png))
+![Main Form][(img/screenshot1.png](https://github.com/rchatthuska/BookDataBase/blob/master/Screenshot%202024-12-17%20180745.png))
 
 ---
 
